@@ -1,0 +1,1 @@
+GRANT OF LICENSE. Licensor hereby grants to Licensee, and Licensee hereby accepts, a non-exclusive and non-transferable license to use the [Software Name] software, in object code form only, solely for Licensee's own internal business purposes.
