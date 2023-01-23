@@ -18,6 +18,8 @@ npm install
 npm start
 ```
 
+To add your PHP code, add your PHP code in the file "app/index.php"
+
 ### How to build
 
 ```bash
@@ -330,4 +332,26 @@ Next, create an index.html file in the root folder of your project:
     .
   </body>
 </html>
+```
+
+install php-server-manager
+
+```bash
+npm i php-server-manager
+```
+
+Build an executable file
+
+```bash
+npm install --save-dev @electron-forge/cli
+```
+
+```bash
+npx electron-forge import
+```
+
+Then insiate the build
+
+```bash
+npm run make
 ```
